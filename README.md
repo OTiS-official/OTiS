@@ -75,3 +75,8 @@ python3 main_finetune.py --eval --resume $checkpoint --num_workers $num_workers 
 <p align="center">
   <img src="./figs/EEG_embeddings.png?raw=true" width=85%>
 </p>
+
+### Zero-shot forecast predictions of distinct sine waves
+<p align="center">
+  <img src="./figs/signals.png?raw=true" width=85%>
+</p>
